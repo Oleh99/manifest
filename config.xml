@@ -21,7 +21,7 @@
       <configVersion>2</configVersion>
       <userRemoteConfigs>
         <hudson.plugins.git.UserRemoteConfig>
-          <url>URL</url>
+          <url>https://gitlab.com/oleh.avramenko99/demo5-spring-petclinic.git</url>
           <credentialsId>gitlab-deploy-token</credentialsId>
         </hudson.plugins.git.UserRemoteConfig>
       </userRemoteConfigs>
