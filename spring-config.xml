@@ -36,7 +36,7 @@
           <excludeBranchesSpec></excludeBranchesSpec>
           <sourceBranchRegex></sourceBranchRegex>
           <targetBranchRegex></targetBranchRegex>
-          <secretToken>{AQAAABAAAAAwRoVcRZijYc90YU7ZPzpacVRebD6IpIkSBtOHc7RsgzQ+5go+yREUsmBn5He65IfjCJSVWyIiWdPUN9R4MlS/EQ==}</secretToken>
+          <secretToken></secretToken>
           <pendingBuildName></pendingBuildName>
           <cancelPendingBuildsOnUpdate>false</cancelPendingBuildsOnUpdate>
         </com.dabsquared.gitlabjenkins.GitLabPushTrigger>
