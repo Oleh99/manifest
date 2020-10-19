@@ -19,15 +19,6 @@
     <com.dabsquared.gitlabjenkins.connection.GitLabConnectionProperty plugin="gitlab-plugin@1.5.13">
       <gitLabConnection></gitLabConnection>
     </com.dabsquared.gitlabjenkins.connection.GitLabConnectionProperty>
-    <hudson.model.ParametersDefinitionProperty>
-      <parameterDefinitions>
-        <hudson.model.PasswordParameterDefinition>
-          <name>TOKEN</name>
-          <description></description>
-          <defaultValue>SECRET_TOKEN</defaultValue>
-        </hudson.model.PasswordParameterDefinition>
-      </parameterDefinitions>
-    </hudson.model.ParametersDefinitionProperty>
     <org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
       <triggers/>
     </org.jenkinsci.plugins.workflow.job.properties.PipelineTriggersJobProperty>
@@ -54,4 +45,3 @@
   </definition>
   <triggers/>
   <disabled>false</disabled>
-</flow-definition>
