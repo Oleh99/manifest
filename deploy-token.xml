@@ -3,6 +3,6 @@
   <scope>GLOBAL OR SYSTEM</scope>
   <id>gitlab-deploy-token</id>
   <username>oleh.avramenko99</username>
-  <password>${GITLAB_TOKEN}</password>
+  <password>A-_bnyoZwWzmkRDKisdh</password>
   <description>gitlab-deploy-token</description>
 </com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl>
