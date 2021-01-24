@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl>
-  <scope>GLOBAL OR SYSTEM</scope>
-  <id>gitlab-deploy-token</id>
-  <username>oleh.avramenko99</username>
-  <password>TOKEN</password>
-  <description>gitlab-deploy-token</description>
-</com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl>
